@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://zoepage.github.io
+title: web log
+paginate: 10
