@@ -1,12 +1,10 @@
 ---
 published: false
-title: Goodbye / hello
+title: Goodbye / Hello
 layout: post
 tags: [mozilla, firefox, web, compat, compatibility, webcompat.org]
 categories: [mozilla, web, compat]
 ---
-
-
 I’m proud to announce that I’ll be joining the Web Compatibility Project at Mozilla as a platform engineer.
 
 The decision was not easy. I truly believe that the combination of design and artificial intelligence is the future. Especially for e-commerce. Where content should drive design decisions and support writers to create a better experience while focusing on what they can do best. I also will miss my team a lot. A team of open-minded, creative and passionate people, who care about their code.
