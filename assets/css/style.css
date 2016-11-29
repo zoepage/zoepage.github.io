@@ -16,7 +16,6 @@ body{
 
 a{
     color: #777;
-    text-decoration: none;
 }
 a:hover{
     text-decoration: underline;
@@ -33,6 +32,7 @@ nav{
 nav a{
   padding: 0 5px;
   font-size: 90%;
+  text-decoration: none;
 }
 header{
     font-family: 'Libre Baskerville', Georgia;
@@ -60,13 +60,13 @@ article p{
     padding: 10px
 }
 article a{
-    color: #6699FF;
+    color: #66FF99;
 }
 article h3{
     color: #222;
 }
 article a:visited{
-    color: #6666FF;
+    color: #66FF66;
 }
 article img{
     max-width: 550px;
