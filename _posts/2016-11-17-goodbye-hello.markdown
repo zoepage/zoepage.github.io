@@ -1,11 +1,10 @@
 ---
-published: false
+published: true
 title: Goodbye / Hello
 layout: post
 tags: [mozilla, firefox, web, compat, compatibility, webcompat.org]
 categories: [mozilla, web, compat]
 ---
-
 I’m proud to announce that I’ll be joining the Web Compatibility Project at Mozilla as a platform engineer.
 
 #### Goodbye...
