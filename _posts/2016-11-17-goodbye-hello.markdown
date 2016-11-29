@@ -5,8 +5,7 @@ layout: post
 tags: [mozilla, firefox, web, compat, compatibility, webcompat.org]
 categories: [mozilla, web, compat]
 ---
-I’m proud to announce that I’ll be joining the Web Compatibility Project at Mozilla as a platform engineer.
-
+I’m proud to announce that I’ll be joining **Mozilla** as **Webcompat Engineer** in January.
 #### Goodbye...
 
 The decision was not easy. I do believe that the combination of design and artificial intelligence is the future. Where content should drive design decisions and support writers to create a better experience while focusing on what they do best. I  will miss my team of open-minded, creative and passionate people, who care about their code.
