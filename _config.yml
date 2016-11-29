@@ -2,5 +2,5 @@ excerpt_separator: ""
 rouge: true
 markdown: kramdown
 url: http://zoepage.github.io
-title: web log
+title: web log // ola gasidlo
 paginate: 10
