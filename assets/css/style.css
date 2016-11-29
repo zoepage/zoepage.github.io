@@ -10,7 +10,7 @@
 body{
     line-height: 1.6em;
     font-family: Arial,sans-serif;
-    color: #444;
+    color: #222;
     padding-top: 20px
 }
 
@@ -60,18 +60,18 @@ article p{
     padding: 10px
 }
 article a{
-    color: #407FBF;
+    color: #6699FF;
 }
 article h3{
-    color: #FF9999;
+    color: #222;
 }
 article a:visited{
-    color: #74A2D0;
+    color: #6666FF;
 }
 article img{
     max-width: 550px;
     display: block;
-    margin: 0 auto;
+    margin: 0 auto 20px;
     text-align: center;
 }
 article.list{
