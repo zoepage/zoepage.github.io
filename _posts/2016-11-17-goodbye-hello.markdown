@@ -19,7 +19,7 @@ I truly believe in the Open Web, which should be accessible for everyone. But we
 
 
 
-### What is Web Compatibility?
+## What is Web Compatibility?
 
 Web compatibility is about making sure web sites work consistently across all browsers and devices. Sometimes, sites have bugs or policies that prevent them from working well in every browser. We work to help web developers and site owners identify and fix such issues.
 
@@ -29,7 +29,7 @@ This project is an open invitation for all web users, developers and browser ven
 
 
 
-### Want to learn more?
+## Want to learn more?
 Mike Taylor gave a [brilliant introduction](https://www.youtube.com/watch?v=q2kK_wd1xzY) at ViewSource Berlin this year. 
 
 You can also head over to [the Web Compat Project](https://webcompat.com/) and check it out!
