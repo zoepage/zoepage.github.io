@@ -60,13 +60,14 @@ article p{
     padding: 10px
 }
 article a{
-    color: #66FF99;
+    color: #3366FF;
+    font-weight: 700;
 }
 article h3{
     color: #222;
 }
 article a:visited{
-    color: #66FF66;
+    color: #3366FF;
 }
 article img{
     max-width: 550px;
