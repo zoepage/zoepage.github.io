@@ -52,4 +52,6 @@ With reporting, you already did the biggest part on helping make the web accessi
 But you can also help with checking out bugs, finding solutions or share your knowledge... You can find more about the how at https://webcompat.com/contributors.
 
 
+<img src="https://media.giphy.com/media/tnivTK2URZm7e/giphy.gif" alt="Care bears sending hearts out of their bellies." />
+
 # Thank you <3
