@@ -63,6 +63,10 @@ article a{
     color: #3366FF;
     font-weight: 700;
 }
+article h2{
+    margin-top: 20px;
+}
+
 article h3{
     color: #222;
 }
@@ -72,7 +76,7 @@ article a:visited{
 article img{
     max-width: 550px;
     display: block;
-    margin: 0 auto 20px;
+    margin: 0 auto;
     text-align: center;
 }
 article.list{
