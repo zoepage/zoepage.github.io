@@ -1,3 +1,11 @@
+---
+published: true
+title: What is Web Compatibility
+layout: post
+tags: [mozilla, firefox, web, compat, compatibility, webcompat.org]
+categories: [mozilla, web, compat]
+---
+
 One week ago, I’ve started my job as Web Compat Engineer at Mozilla and it’s been wonderful so far! 
 It’s a very welcoming place here in Berlin and my team is superb! So, summed up in one GIF?
 
