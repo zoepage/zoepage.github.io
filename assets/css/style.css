@@ -74,10 +74,15 @@ article a:visited{
     color: #3366FF;
 }
 article img{
-    max-width: 550px;
+    max-width: 100%;
     display: block;
     margin: 0 auto;
     text-align: center;
+}
+@media screen and (min-width: 550px) {
+    article img{
+        max-width: 550px;
+    }
 }
 article.list{
     padding: 0
