@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/posts/firstpost/</loc>
+    <lastmod>2018-05-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/posts/secondpost/</loc>
+    <lastmod>2018-07-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/posts/thirdpost/</loc>
+    <lastmod>2018-08-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/posts/fourthpost/</loc>
+    <lastmod>2018-09-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/about/</loc>
+    <lastmod>2019-01-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/posts/</loc>
+    <lastmod>2019-01-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/</loc>
+    <lastmod>2019-01-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/tags/</loc>
+    <lastmod>2019-01-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/tags/second-tag/</loc>
+    <lastmod>2019-01-28</lastmod>
+  </url>
+</urlset>
