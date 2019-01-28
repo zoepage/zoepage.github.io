@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tagged “another-tag”</title>
     <meta name="Description" content="Ola! Code and stuff...">
-    <link rel="stylesheet" href="/css/index.css">
-    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
-    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Zoe&#39;s page">
+    <link rel="stylesheet" href="/Users/olagasidlo/Projekte/zoepage.github.io/css/index.css">
+    <link rel="stylesheet" href="/Users/olagasidlo/Projekte/zoepage.github.io/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/Users/olagasidlo/Projekte/zoepage.github.io/feed/feed.xml" type="application/atom+xml" title="Zoe&#39;s page">
   </head>
   <body>
     <header class="navi">
-      <ul class="nav"><li class="nav-item"><a href="/">Home</a></li><li class="nav-item"><a href="/posts/">Archive</a></li><li class="nav-item"><a href="/about/">About</a></li></ul>
+      <ul class="nav"><li class="nav-item"><a href="/Users/olagasidlo/Projekte/zoepage.github.io/">Home</a></li><li class="nav-item"><a href="/Users/olagasidlo/Projekte/zoepage.github.io/posts/">Archive</a></li><li class="nav-item"><a href="/Users/olagasidlo/Projekte/zoepage.github.io/about/">About</a></li></ul>
     </header>
 
     <main class="tmpl-home main">
@@ -27,21 +27,27 @@
       </time>
 
       
-        <a href="/tags/another-tag/" class="tag another-tag">another-tag</a>
+        <a href="/Users/olagasidlo/Projekte/zoepage.github.io/tags/another-tag/" class="tag another-tag">another-tag</a>
     </aside>
     <h2>
-      <a href="/posts/firstpost/" class="postlist-link">
+      <a href="/Users/olagasidlo/Projekte/zoepage.github.io/posts/firstpost/" class="postlist-link">
         
           This is my first post.
         
       </a>
     </h2>
       <p>
-        <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
-<p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
-<h2 id="section-header">Section Header <a class="bookmark" href="#section-header" aria-hidden="true">#</a></h2>
-<p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
-<pre class="language-text"><code class="language-text"><span class="highlight-line">// this is a command</span><br><span class="highlight-line">function myCommand() {</span><br><mark class="highlight-line highlight-line-active">	let counter = 0;</mark><br><mark class="highlight-line highlight-line-active">	counter++;</mark><br><span class="highlight-line">}</span><br><span class="highlight-line"></span><br><span class="highlight-line">// Test with a line break above this line.</span><br><span class="highlight-line">console.log('Test');</span></code></pre>
+        <p>You work a lot with PRs from forked repos within your team?
+My workflow for this:</p>
+<p>Create a remote url with the name of the person as identifier like below:</p>
+<pre class="language-bash"><code class="language-bash"><span class="highlight-line">$ <span class="token function">git</span> remote -v</span><br><span class="highlight-line"></span><br><span class="highlight-line">julien	https://github.com/julienw/perf.html.git </span><br><span class="highlight-line">main	https://github.com/devtools-html/perf.html.git</span><br><span class="highlight-line">mstange	https://github.com/mstange/perf.html.git</span><br><span class="highlight-line">zoepage	https://github.com/zoepage/perf.html.git</span></code></pre>
+<p>Use your fork as the main repo to review and fetch branches, you need to review per name.</p>
+<p>How?</p>
+<p>I usually create a branch with the name of the PR, e.g. <code>123-feature_v2</code> and pull the data in.
+This way I also can work on changes, if I need to or can fork that branch.</p>
+<p>$ git checkout -b 123-feature_v2
+$ git pull julien 123-feature_v2</p>
+<p>No need for different folders or other maybe messy hacks.</p>
 
       </p>
   </article>
@@ -49,7 +55,7 @@
 </div>
 
 
-<p>See <a href="/tags/">all tags</a>.</p>
+<p>See <a href="/Users/olagasidlo/Projekte/zoepage.github.io/tags/">all tags</a>.</p>
 
 
     </main>
@@ -58,6 +64,6 @@
       <p><em>This is an <a href="https://www.11ty.io/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
     </footer>
 
-    <!-- Current page: /tags/another-tag/ -->
+    <!-- Current page: /Users/olagasidlo/Projekte/zoepage.github.io/tags/another-tag/ -->
   </body>
 </html>

@@ -2,23 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zoepage.github.io/posts/firstpost/</loc>
-    <lastmod>2018-05-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoepage.github.io/posts/secondpost/</loc>
-    <lastmod>2018-07-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoepage.github.io/posts/thirdpost/</loc>
-    <lastmod>2018-08-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zoepage.github.io/posts/fourthpost/</loc>
-    <lastmod>2018-09-30</lastmod>
+    <loc>https://zoepage.github.io/posts/20180611-work-it/</loc>
+    <lastmod>2018-06-11</lastmod>
   </url>
   
   <url>
@@ -42,7 +27,7 @@
   </url>
   
   <url>
-    <loc>https://zoepage.github.io/tags/number-2/</loc>
+    <loc>https://zoepage.github.io/tags/hacks/</loc>
     <lastmod>2019-01-28</lastmod>
   </url>
 </urlset>

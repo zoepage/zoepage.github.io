@@ -186,12 +186,21 @@ pre {
 }
 
 .postlist-date {
-  word-spacing: -0.5px;
+  word-spacing: -1px;
+  float: right;
+  font-size: 0.7em;
 }
 .postlist-link {
   display: inline-block;
-  padding: 0.25em 0.1875em; /* 4px 3px /16 */
+  padding: 0.25em 0.1875em 0.25em 0.5em; /* 4px 3px /16 */
+  border-left: 0.25em solid gold;
 }
+
+a[href].postlist-link,
+a[href].postlist-link:visited {
+  color: black;
+}
+
 .postlist-item-active .postlist-link {
   font-weight: bold;
 }
@@ -215,9 +224,14 @@ pre {
   text-decoration: none;
 }
 
-.tag {
-  background-color: gold;
-  color: black;
+/* tag colors
+- lightpink
+- lightblue
+
+*/
+
+.hacks {
+  background-color: lightgreen;
 }
 
 a[href].tag,
@@ -250,4 +264,18 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+.footer {
+  border-top: 1px dashed var(--lightgray);
+  padding: 20px 10px;
+  text-align: center;
+}
+
+.footer-more-posts {
+  text-align: center;
+  background-color: gold;
+  transform: rotate(1deg);
+  padding: 5px 4px 4px;
+  max-width: 960px;
 }
