@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/posts/firstpost/</loc>
+    <loc>https://zoepage.github.io/zoepage.github.io/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/posts/secondpost/</loc>
+    <loc>https://zoepage.github.io/zoepage.github.io/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/posts/thirdpost/</loc>
+    <loc>https://zoepage.github.io/zoepage.github.io/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
   
   <url>
-    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/posts/fourthpost/</loc>
+    <loc>https://zoepage.github.io/zoepage.github.io/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/about/</loc>
+    <loc>https://zoepage.github.io/zoepage.github.io/about/</loc>
     <lastmod>2019-01-28</lastmod>
   </url>
   
   <url>
-    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/posts/</loc>
+    <loc>https://zoepage.github.io/zoepage.github.io/posts/</loc>
     <lastmod>2019-01-28</lastmod>
   </url>
   
   <url>
-    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/</loc>
+    <loc>https://zoepage.github.io/zoepage.github.io/</loc>
     <lastmod>2019-01-28</lastmod>
   </url>
   
   <url>
-    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/tags/</loc>
+    <loc>https://zoepage.github.io/zoepage.github.io/tags/</loc>
     <lastmod>2019-01-28</lastmod>
   </url>
   
   <url>
-    <loc>https://zoepage.github.io/Users/olagasidlo/Projekte/eleventy-base-blog/_site/tags/second-tag/</loc>
+    <loc>https://zoepage.github.io/zoepage.github.io/tags/another-tag/</loc>
     <lastmod>2019-01-28</lastmod>
   </url>
 </urlset>
