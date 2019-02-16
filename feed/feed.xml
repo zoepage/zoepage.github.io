@@ -13,9 +13,9 @@
 	
 	<entry>
 		<title>Goodbye / Hello</title>
-		<link href="https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20161117-goodbye-hello/"/>
+		<link href="https://zoepage.github.io/posts/20161117-goodbye-hello/"/>
 		<updated>2016-12-30T01:00:00+01:00</updated>
-		<id>https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20161117-goodbye-hello/</id>
+		<id>https://zoepage.github.io/posts/20161117-goodbye-hello/</id>
 		<content type="html">&lt;p&gt;I’m proud to announce that I’ll be joining &lt;strong&gt;Mozilla&lt;/strong&gt; as &lt;strong&gt;Webcompat Engineer&lt;/strong&gt; in January.&lt;/p&gt;
 &lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/5Dg0E3yOryWE8/giphy.gif&quot; alt=&quot;playing fox in the snow&quot;&gt;
 &lt;p&gt;The decision was not easy. I do believe that the combination of design and artificial intelligence is the future. Where content should drive design decisions and support writers to create a better experience while focusing on what they do best. I  will miss my team of open-minded, creative and passionate people, who care about their code.&lt;/p&gt;
@@ -34,9 +34,9 @@
 	
 	<entry>
 		<title>What is Web Compatibility</title>
-		<link href="https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20170110-what-is-web-compatibility/"/>
+		<link href="https://zoepage.github.io/posts/20170110-what-is-web-compatibility/"/>
 		<updated>2017-01-16T01:00:00+01:00</updated>
-		<id>https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20170110-what-is-web-compatibility/</id>
+		<id>https://zoepage.github.io/posts/20170110-what-is-web-compatibility/</id>
 		<content type="html">&lt;p&gt;One week ago, I’ve started my job as Web Compatibility Engineer at Mozilla and it’s been wonderful so far!
 It’s a very welcoming place here in Berlin and my team is superb! So, summed up in one GIF?&lt;/p&gt;
 &lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/10uJ0IFxlCA06I/giphy.gif&quot; alt=&quot;Hands make a heart&quot;&gt;
@@ -63,9 +63,9 @@ This could be e.g. a prefix the website is using, but just for one browser and o
 	
 	<entry>
 		<title>Why do we need Web Compatibility</title>
-		<link href="https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20170116-why-do-we-need-web-compatibility/"/>
+		<link href="https://zoepage.github.io/posts/20170116-why-do-we-need-web-compatibility/"/>
 		<updated>2017-01-16T01:00:00+01:00</updated>
-		<id>https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20170116-why-do-we-need-web-compatibility/</id>
+		<id>https://zoepage.github.io/posts/20170116-why-do-we-need-web-compatibility/</id>
 		<content type="html">&lt;p&gt;Last week, I published the first part of this blog post called &lt;a href=&quot;https://zoepage.github.io/posts/20170110-what-is-web-compatibility/index.html&quot;&gt;What is Web Compatibility&lt;/a&gt;? It explained what web compatibility is (Does it work in most browsers? Is the bug appearing in just this one?) and how you can report it.&lt;/p&gt;
 &lt;h3 id=&quot;but-why-do-we-need-web-compatibility%3F&quot;&gt;But why do we need Web Compatibility? &lt;a class=&quot;bookmark&quot; href=&quot;#but-why-do-we-need-web-compatibility%3F&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;There are a so many things I&#39;ve heard from people why they do not report bugs.&lt;/p&gt;
@@ -114,9 +114,9 @@ But you can help also with checking out bugs, finding solutions or share your kn
 	
 	<entry>
 		<title>Key to Productivity</title>
-		<link href="https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20170404-key-to-productivity/"/>
+		<link href="https://zoepage.github.io/posts/20170404-key-to-productivity/"/>
 		<updated>2017-04-04T02:00:00+02:00</updated>
-		<id>https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20170404-key-to-productivity/</id>
+		<id>https://zoepage.github.io/posts/20170404-key-to-productivity/</id>
 		<content type="html">&lt;p&gt;One of the first things people learn about me, I have a pretty busy life.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;I am a engineer who works full-time on Firefox.&lt;/li&gt;
@@ -160,9 +160,9 @@ How are you making sure you do hydrate yourself enough during the day? Did you e
 	
 	<entry>
 		<title>Work it!</title>
-		<link href="https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20180612-work-it/"/>
+		<link href="https://zoepage.github.io/posts/20180612-work-it/"/>
 		<updated>2018-06-11T02:00:00+02:00</updated>
-		<id>https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20180612-work-it/</id>
+		<id>https://zoepage.github.io/posts/20180612-work-it/</id>
 		<content type="html">&lt;p&gt;You work a lot with PRs from forked repos within your team? Maybe my workfow can help you to make your life easier.&lt;/p&gt;
 &lt;h4 id=&quot;my-workflow&quot;&gt;My workflow &lt;a class=&quot;bookmark&quot; href=&quot;#my-workflow&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;
