@@ -161,18 +161,15 @@ pre {
   margin-bottom: 50px;
 }
 
-.post-title {
-  border-left: 6px solid gold;
-  padding-left: 10px;
-}
+.post-title {  }
 
 /* Posts list */
-.postlist {
-
-}
+.postlist {  }
 
 .postlist-item {
-  margin-bottom: 55px;
+  margin-top: 45px;
+  border-bottom: 1px dashed var(--lightgray);
+  padding-bottom: 45px;
 }
 
 .postlist-date,
@@ -194,6 +191,28 @@ pre {
   display: inline-block;
   padding: 0.25em 0.1875em 0.25em 0.5em; /* 4px 3px /16 */
   border-left: 0.25em solid gold;
+}
+
+.postlist-button {
+  margin-top: 20px;
+  display: inline-block;
+  padding: 0.2em 0.3em;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 3px solid gold;
+}
+
+.postlist-button::before,
+.postlist-button::after {
+  content: " ≫ ";
+}
+
+.postlist-button:hover {
+  background-color: gold;
+}
+
+.postlist-button:hover::after {
+  content: " ≪ ";
 }
 
 a[href].postlist-link,
@@ -234,6 +253,27 @@ a[href].postlist-link:visited {
   background-color: lightgreen;
 }
 
+
+.family,
+.health {
+  background-color: lightblue;
+}
+
+
+.standards,
+.webcompat {
+  background-color: lightpink;
+}
+
+.mozilla {
+  background-color: orange;
+}
+
+.web {
+  background-color: darkcyan;
+  color: white !important;
+}
+
 a[href].tag,
 a[href].tag:visited {
   color: black;
@@ -267,7 +307,6 @@ a[href].direct-link:focus:visited,
 }
 
 .footer {
-  border-top: 1px dashed var(--lightgray);
   padding: 20px 10px;
   text-align: center;
 }
@@ -278,4 +317,12 @@ a[href].direct-link:focus:visited,
   transform: rotate(1deg);
   padding: 5px 4px 4px;
   max-width: 960px;
+}
+
+.tmpl-home .postlist-item img {
+  display: none;
+}
+
+.post-item-image {
+  max-width: 350px;
 }

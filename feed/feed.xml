@@ -2,26 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Zoe&#39;s page</title>
 	<subtitle>Daughter driven development to the fullest!</subtitle>
-	<link href="https://myurl.com/feed/feed.xml" rel="self"/>
+	<link href="https://zoepage.github.io/feed/feed.xml" rel="self"/>
 	<link href="https://zoepage.github.io/"/>
 	<updated>2018-06-11T02:00:00+02:00</updated>
-	<id>https://myurl.com/</id>
+	<id>https://zoepage.github.io/</id>
 	<author>
-		<name>Zoe Ola Page</name>
+		<name>Ola</name>
 		<email>ola@candyforthemasses.com</email>
 	</author>
 	
 	<entry>
+		<title>Goodbye / Hello</title>
+		<link href="https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20161117-goodbye-hello/"/>
+		<updated>2016-12-30T01:00:00+01:00</updated>
+		<id>https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20161117-goodbye-hello/</id>
+		<content type="html">&lt;p&gt;I’m proud to announce that I’ll be joining &lt;strong&gt;Mozilla&lt;/strong&gt; as &lt;strong&gt;Webcompat Engineer&lt;/strong&gt; in January.&lt;/p&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/5Dg0E3yOryWE8/giphy.gif&quot; alt=&quot;playing fox in the snow&quot;&gt;
+&lt;p&gt;The decision was not easy. I do believe that the combination of design and artificial intelligence is the future. Where content should drive design decisions and support writers to create a better experience while focusing on what they do best. I  will miss my team of open-minded, creative and passionate people, who care about their code.&lt;/p&gt;
+&lt;p&gt;I truly believe in the Open Web, which should be accessible for everyone. But we all know, we can get very different experiences depending on our device or user agent. This is why we need the web compatibility project and I&#39;m stoked to be a part of this soon.&lt;/p&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/3o6ozmdOeex4TnABz2/giphy.gif&quot; alt=&quot;Say what?&quot;&gt;
+&lt;h3 id=&quot;what-is-web-compatibility%3F&quot;&gt;What is Web Compatibility? &lt;a class=&quot;bookmark&quot; href=&quot;#what-is-web-compatibility%3F&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Web compatibility is about making sure web sites work consistently across all browsers and devices. Sometimes, sites have bugs or policies that prevent them from working well in every browser. We work to help web developers and site owners identify and fix such issues.&lt;/p&gt;
+&lt;p&gt;This project is an open invitation for all web users, developers and browser vendors to get involved in the web compatibility effort. Our goal is to make it easy to report and solve problems for any part of the web.&lt;/p&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/3o7abBP0nMjrdIvaCY/giphy.gif&quot; alt=&quot;Say what?&quot;&gt;
+&lt;h3 id=&quot;want-to-learn-more%3F&quot;&gt;Want to learn more? &lt;a class=&quot;bookmark&quot; href=&quot;#want-to-learn-more%3F&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Mike Taylor gave a &lt;a href=&quot;https://www.youtube.com/watch?v=q2kK_wd1xzY&quot;&gt;brilliant introduction&lt;/a&gt; at ViewSource Berlin this year.&lt;/p&gt;
+&lt;p&gt;You can also head over to &lt;a href=&quot;https://webcompat.com/&quot;&gt;the WebCompat Project&lt;/a&gt; and check it out!&lt;/p&gt;
+&lt;p&gt;The web is big and keeps getting bigger. And we need to make sure it’s all a solid base, we can build our future on. I’m very excited about making an impact on the open web again!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>What is Web Compatibility</title>
+		<link href="https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20170110-what-is-web-compatibility/"/>
+		<updated>2017-01-16T01:00:00+01:00</updated>
+		<id>https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20170110-what-is-web-compatibility/</id>
+		<content type="html">&lt;p&gt;One week ago, I’ve started my job as Web Compatibility Engineer at Mozilla and it’s been wonderful so far!
+It’s a very welcoming place here in Berlin and my team is superb! So, summed up in one GIF?&lt;/p&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/10uJ0IFxlCA06I/giphy.gif&quot; alt=&quot;Hands make a heart&quot;&gt;
+&lt;p&gt;When people ask me, what I actually do, the conversations mostly go like this…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A: “So, Web Compatibility Engineer? Huh... What do you do exactly?”&lt;/strong&gt;&lt;br&gt;
+B: “We make sure websites work in the same way on every platform.”&lt;br&gt;
+&lt;strong&gt;A: ”So, I can report a bug when I find one?”&lt;/strong&gt;&lt;br&gt;
+B: ”Yes, please! Just hop over to &lt;a href=&quot;https://webcompat.com/&quot;&gt;webcompat.com&lt;/a&gt; and let us know what you’ve found! We’ll help to fix it.”&lt;br&gt;
+&lt;strong&gt;A: “Oh, great. So you can fix my broken website, right?”&lt;/strong&gt;&lt;br&gt;
+B: “Well, it depends… Is your bug appearing in one browser, but not another? Then it is a webcompat bug and you should totally report it.”&lt;/p&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/c4Nc0v0g15g9G/giphy.gif&quot; alt=&quot;Jake thinks this is interesting.&quot;&gt;
+&lt;h2 id=&quot;what-is-a-webcompat-bug%3F&quot;&gt;What is a WebCompat bug? &lt;a class=&quot;bookmark&quot; href=&quot;#what-is-a-webcompat-bug%3F&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;If you find a bug on a web site, just ask yourself… Is this happening just in one browser or in all of them?
+&lt;strong&gt;If it’s in more than three common browsers, please report the bug to the website youre browsing.&lt;/strong&gt; They’ll be happy about some good pointers how to reproduce the bug and which system / browser you are running etc, because everyone deserves good bug reports. ;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If this is happening in just one or two browsers, this is pretty likely a WebCompat bug, which you should report over at &lt;a href=&quot;https://webcompat.com/&quot;&gt;webcompat.com&lt;/a&gt;.&lt;/strong&gt;
+This could be e.g. a prefix the website is using, but just for one browser and others are left out. Maybe the prefix isn’t even needed anymore. Or the specs are not implemented in a correct way into the browser. (Specs just say &lt;em&gt;what&lt;/em&gt; should be implemented, but not &lt;em&gt;how&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Your experience, knowledge and voice is what is the most important thing. Browser vendors need you! Your input. You are the ones building the web, shaping up the web.&lt;/p&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/tnivTK2URZm7e/giphy.gif&quot; alt=&quot;Care bears sending hearts out of their bellies.&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Thank you &amp;lt;3&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zoepage.github.io/posts/20170116-why-do-we-need-web-compatibility/index.html&quot;&gt;Hop over to the second part!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;&lt;em&gt;This is the first part of a two part blog post.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Why do we need Web Compatibility</title>
+		<link href="https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20170116-why-do-we-need-web-compatibility/"/>
+		<updated>2017-01-16T01:00:00+01:00</updated>
+		<id>https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20170116-why-do-we-need-web-compatibility/</id>
+		<content type="html">&lt;p&gt;Last week, I published the first part of this blog post called &lt;a href=&quot;https://zoepage.github.io/posts/20170110-what-is-web-compatibility/index.html&quot;&gt;What is Web Compatibility&lt;/a&gt;? It explained what web compatibility is (Does it work in most browsers? Is the bug appearing in just this one?) and how you can report it.&lt;/p&gt;
+&lt;h3 id=&quot;but-why-do-we-need-web-compatibility%3F&quot;&gt;But why do we need Web Compatibility? &lt;a class=&quot;bookmark&quot; href=&quot;#but-why-do-we-need-web-compatibility%3F&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;There are a so many things I&#39;ve heard from people why they do not report bugs.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;quot;I know this bug already.&amp;quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;quot;I can make this work in what... like 5 minutes.&amp;quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;quot;It&#39;s such an easy hack!&amp;quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&amp;quot;Reporting that bug will take FOREVER!!!!&amp;quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&amp;quot;To be accepted as a full standard, a spec must have two independent and interoperable implementations.&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;em&gt;Web Compatibility is what we need when the Web interoperability process failed in some fashion. And here I&#39;m not talking only about standard organisations, but when different vendors failed to reach an agreement and it creates issues for the end users. Then you have to understand the issue and what is the best way to adjust the path. The power of a technological proposal is influenced a lot by the market shares of the vendor product.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt; If a vendor implements a tool to be able to reload part of a document without making a HTTP request for the full document AND has a very large market share… you get XMLHttpRequest which was created by IE (initially as an activeX mechanism) and that other browsers were forced to implement (with its own twisted history). &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt; Web SQL and IndexedDB is a twisted history of Apple which had vested interests in another technology.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/karlcow&quot;&gt;@karlcow&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;please%2C-stop...&quot;&gt;Please, stop... &lt;a class=&quot;bookmark&quot; href=&quot;#please%2C-stop...&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We need to stop hacking things. Your voice matters to show browser vendors that we need interoperable specs, not different implementations. We as developers need tools that work from the get go in the right way.&lt;/p&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif&quot; alt=&quot;Dog typing on keyboard.&quot;&gt; 
+&lt;p&gt;Clean code is valuable for everyone. Not just because updating hacked code is hard and you get yourself in a bigger mess everytime you do something. But also, because it takes us forever to find those browser quirks and learn things, we shouldn&#39;t need to know. Just think about how much time and frustration you had to go through, while you fought with those type of bugs?!&lt;/p&gt;
+&lt;p&gt;We should have a web that works for everyone. Make it not just user-, but developer-friendly.&lt;/p&gt;
+&lt;h3 id=&quot;benefits-of-reporting-%3C3&quot;&gt;Benefits of reporting &amp;lt;3 &lt;a class=&quot;bookmark&quot; href=&quot;#benefits-of-reporting-%3C3&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;You might assume the bug was already reported, because other developers do that all the time, right?
+Well... most likely? No. If you ask at a meetup, conference or where ever you meet other developers how many of them reported a bug before, 1-2 hands will go up. &lt;em&gt;If&lt;/em&gt; you&#39;re lucky!&lt;/p&gt;
+&lt;p&gt;And &lt;em&gt;what if&lt;/em&gt; it was &lt;em&gt;already&lt;/em&gt; reported? There is no dragon standing in front of the bug tracker and eat you alive, just because you dared to raise your voice and say a word about that bug...&lt;/p&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/SIClNyzUQv5Vm/giphy.gif&quot; alt=&quot;Cute dragon scratching himself.&quot;&gt;
+&lt;p&gt;&lt;small&gt;(Okay, maybe just a very cute one, who is actually really nice and would love to give you a hug!)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;The more developers report bugs, the higher is the chance to get all of them covered. PLUS it makes specific bugs so much more visible and the fact how annoyed developers are by &amp;quot;this specific one&amp;quot;, so browser vendors will prioritize it higher and fix it sooner.&lt;/p&gt;
+&lt;p&gt;Your experience, knowledge and voice is what is the most important thing. Browser vendors need you! Your input. You are the ones building the web, shaping up the web.&lt;/p&gt;
+&lt;h3 id=&quot;how-can-i-help-beyond-just-reporting-bugs%3F&quot;&gt;How can I help beyond just reporting bugs? &lt;a class=&quot;bookmark&quot; href=&quot;#how-can-i-help-beyond-just-reporting-bugs%3F&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;With reporting, you already did the biggest part on helping make the web accessible for everyone.
+But you can help also with checking out bugs, finding solutions or share your knowledge... You can find more about the how at &lt;a href=&quot;https://webcompat.com/contributors&quot;&gt;https://webcompat.com/contributors&lt;/a&gt;.&lt;/p&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/tnivTK2URZm7e/giphy.gif&quot; alt=&quot;Care bears sending hearts out of their bellies.&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Thank you &amp;lt;3&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;&lt;em&gt;This is the second part of a two part blog post.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Key to Productivity</title>
+		<link href="https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20170404-key-to-productivity/"/>
+		<updated>2017-04-04T02:00:00+02:00</updated>
+		<id>https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20170404-key-to-productivity/</id>
+		<content type="html">&lt;p&gt;One of the first things people learn about me, I have a pretty busy life.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I am a engineer who works full-time on Firefox.&lt;/li&gt;
+&lt;li&gt;I speak frequently at conferences.&lt;/li&gt;
+&lt;li&gt;I mentor people and help to organize events.&lt;/li&gt;
+&lt;li&gt;I am a solo mom of a 5 y/o.&lt;/li&gt;
+&lt;li&gt;I am a human being, with a need for breaks and social interactions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/JYkfr7F6d31hC/giphy-downsized.gif&quot; alt=&quot;Wait what?&quot;&gt;
+&lt;p&gt;All those things add up to enormous amount of tasks.&lt;/p&gt;
+&lt;p&gt;When I finish with a bug fix, three new issues appear and five people came up with questions already. Team meetings, refactors, new features.
+Laundry, grocery shopping, cooking, cleaning.
+Incoming speaking requests and related questions, requests, travel organization (which includes to organize someone who takes her of my little one) and actually research plus writing the talk.
+Keeping up with the little ones schedule and taking care of all her appointments, from kiddo birthdays to playdates, swimming classes and the regular checkups, also enjoying my time being a mom and hang out with the kiddo. Not to mention the additional chaos when she gets sick, not even to mention when I do… A day has still just 24 hours and there is this thing called sleep, even &lt;strong&gt;I&lt;/strong&gt; need.&lt;/p&gt;
+&lt;p&gt;This all feels like an everyday fight against a hydra. Everytime one todo is done, it seems like two new ones appear. But this is also a life I chose and most of the times I am pretty happy with it.&lt;/p&gt;
+&lt;p&gt;So, how do I deal with all of this without being burned out in a short amount of time? Well... it is not easy, but its somekind of doable. After three burnouts in my 20s (before I had a kid) I changed a lot how I handeled things.
+Following, I&#39;ll mention the things that helped me the most.&lt;/p&gt;
+&lt;h2 id=&quot;organize-%26%26-plan-ahead&quot;&gt;Organize &amp;amp;&amp;amp; plan ahead &lt;a class=&quot;bookmark&quot; href=&quot;#organize-%26%26-plan-ahead&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/xUOxf5B4tGwIh6WOw8/giphy-downsized.gif&quot; alt=&quot;Planner for 2017&quot;&gt;
+&lt;p&gt;Lists, notes and a calender can be a life saver. Start with the &amp;quot;bigger picture&amp;quot;. What lays ahead of you in the next 3 - 6 months? What do you need to do to make those things happen? Are there any deadlines you should be aware of? Make a plan, todo list and a schedule that&#39;ll help you navigate through the next few months.&lt;/p&gt;
+&lt;p&gt;The go on with the &amp;quot;smaller view&amp;quot;. Grab the next tasks or the ones that have the closest deadlines. If your time is short, don&#39;t be scared of downgrading tasks and putting them at the end of your list. They might become obsolete or you&#39;ll have time for it later or it becomes more pressuing and gets a bump up on your list. (This is also what makes you flexible.) Just make sure to work focused on one task after another.&lt;/p&gt;
+&lt;h2 id=&quot;stick-to-your-hours-%26%26-decisions&quot;&gt;Stick to your hours &amp;amp;&amp;amp; decisions &lt;a class=&quot;bookmark&quot; href=&quot;#stick-to-your-hours-%26%26-decisions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/l0MYGtCMbPTYWOzaU/giphy-tumblr.gif&quot; alt=&quot;Sherlock lookig at his watch&quot;&gt;
+&lt;p&gt;When you create a loose schedule it&#39;s all about balance. Make sure to add time for all important todos, but also for this thing called life... as life happens to all of us from time to time, right? Don&#39;t cut hours from your family time on a regular basis just because work comes up. Schedule more time in advance or leave it, but stick to your decisions.&lt;/p&gt;
+&lt;p&gt;Being really productive is not about working 24/7 or being available all the time. It’s about using your time right. Your are working? Work! Stop slacking on Youtube or Facebook. If you take a break like a chat with your colleagues allow it to yourself. Don&#39;t stress about it. But be aware of your time, the break and enjoy it.&lt;/p&gt;
+&lt;h2 id=&quot;let-it-go...&quot;&gt;Let it go... &lt;a class=&quot;bookmark&quot; href=&quot;#let-it-go...&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Enough is enough. Stop overthinging it. F*ck perfection. Ask for help. Stop blaming others or you. Just learn from it, find a solution and move on. Often you don&#39;t need to be the only person who works on the task. Document it and let it go if you have to.&lt;/p&gt;
+&lt;h2 id=&quot;know-your-limits!&quot;&gt;Know your limits! &lt;a class=&quot;bookmark&quot; href=&quot;#know-your-limits!&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/yxZlvexI0DyHI2Dyrf/giphy.gif&quot; alt=&quot;Power Puff Girl with circle eyes&quot;&gt;
+&lt;p&gt;How much sleep do you need to feel creative, productive, good about yourself?
+How are you making sure you do hydrate yourself enough during the day? Did you eat something healthy? Or greasy because you need it right now? Which workout works for you or do you prefer to take a long bath? Hanging out with friends or enjoying alone time?&lt;/p&gt;
+&lt;p&gt;Be aware what recharges your batteries, physically AND emotionally. Don&#39;t compromise on that or even cut time down. You might increase your productivity for some time but its just for a short run.&lt;/p&gt;
+&lt;h2 id=&quot;learn-to-say-no&quot;&gt;Learn to say NO &lt;a class=&quot;bookmark&quot; href=&quot;#learn-to-say-no&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;img class=&quot;post-item-image&quot; src=&quot;https://media.giphy.com/media/EVbEdEW3kuu0o/giphy.gif&quot; alt=&quot;David Tennant as Doctor Who shakes his head.&quot;&gt;
+&lt;p&gt;Don&#39;t work on demand which means schedule fixed times for replying to messages like mails or direct messages. Review your notification settings. A thing I&#39;ve learned in the past few years is that there is no reply so important to drop whatever you do right now.&lt;/p&gt;
+&lt;p&gt;You don&#39;t need to save this world all by yourself. Learn to say no. Know who you can count on. Ask for help. Delegate requests to other people who might be intrested and have resources. But mostly important check in with yourself... Do you have the time, the energy or see any benefit for you before saying yes. This might sound selfish but as a close friend once told me &amp;quot;You have to take care of yourself, before you can take care of others.&amp;quot;... And he is right.&lt;/p&gt;
+&lt;p&gt;Schedule time for yourself or your family, friends. No mails during that time. No talking about work or thinking about issues to solve. You need a break from things as everyone else does. This is what keeps you productive and gives you a fresh point of view.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I feel like being aware of yourself, your life&#39;s requirements and challenges also your time and your always changing energy levels is... the key to productivity.&lt;/strong&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Work it!</title>
-		<link href="https://zoepage.github.io/posts/20180611-work-it/"/>
+		<link href="https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20180612-work-it/"/>
 		<updated>2018-06-11T02:00:00+02:00</updated>
-		<id>https://zoepage.github.io/posts/20180611-work-it/</id>
+		<id>https://zoepage.github.io/Users/olagasidlo/Projekte/zoepage.github.io/_site/posts/20180612-work-it/</id>
 		<content type="html">&lt;p&gt;You work a lot with PRs from forked repos within your team? Maybe my workfow can help you to make your life easier.&lt;/p&gt;
 &lt;h4 id=&quot;my-workflow&quot;&gt;My workflow &lt;a class=&quot;bookmark&quot; href=&quot;#my-workflow&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;Create a remote url with the name of the person as identifier like below:&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;
+1. Create a remote url with the name of the person as identifier like below:
 &lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;highlight-line&quot;&gt;$ &lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; remote -v&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;julien	https://github.com/julienw/perf.html.git &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;main	https://github.com/devtools-html/perf.html.git&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;mstange	https://github.com/mstange/perf.html.git&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;zoepage	https://github.com/zoepage/perf.html.git&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/p&gt;
 &lt;ol start=&quot;2&quot;&gt;
 &lt;li&gt;Use your fork as the main repo to review and fetch branches, you need to review per name.&lt;/li&gt;
 &lt;/ol&gt;
